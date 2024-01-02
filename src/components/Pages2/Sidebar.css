@@ -1,0 +1,163 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.main-container {
+    width: 100vw;
+}
+
+.frist-container {
+    margin: auto;
+    justify-content: space-evenly;
+    background-color: white;
+    border-radius: 10px;
+    width: 90%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+
+
+nav {
+    background-color: #fff;
+    width: 300px;
+    top: 0%;
+    margin-top: 12px;
+    bottom: 0%;
+    /* position: absolute; */
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    position: relative;
+    list-style-type: none;
+
+}
+
+nav ul li a {
+    display: flex;
+    align-items: center;
+    font-family: Arial;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black;
+    padding: 10px 40px;
+    height: 45px;
+    width: 100%;
+    border-bottom: 1px solid #f8f8f8;
+}
+
+nav ul li a:hover {
+    background: #c6c3c3;
+    color: white;
+}
+
+nav ul ul {
+    z-index: 10;
+    position: absolute;
+    left: 300px;
+    width: 170px;
+    top: 0;
+    display: none;
+    background-color: #FFF;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, .1);
+}
+
+nav ul span {
+    position: absolute;
+    right: 20px;
+    font-size: 1.5rem;
+}
+
+nav ul .List1 {
+    position: relative;
+}
+
+nav ul .List1:hover ul {
+    display: initial;
+}
+
+
+.second {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    /* width: 60%; */
+    /* margin-top: 30px; */
+    /* margin-left: 4%; */
+}
+
+.second {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.img-div {
+    display: flex;
+    /* justify-content: center; */
+    /* position: fixed; */
+    /* bottom:  0; */
+}
+
+
+.frist-img img {
+    padding: 15px;
+    border-radius: 20px;
+    width: 105%;
+}
+
+
+.carousel {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.third {
+    background-color: #FAFAFA;
+    justify-content: center;
+    margin: 20px 20px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.coloum-div1 {
+    background-color: white;
+    padding: 0px 20px;
+    margin: 20px;
+    height: 15vh;
+}
+
+.frist-heading-third-div {
+    padding: 20px;
+}
+
+.frist-heading-third-div h2 {
+    color: #1D5BAF;
+}
+
+.frist-heading-third-div p {
+    color: #8888;
+}
+
+.coloum-div1 {
+    border: 1px solid #B8CCE6;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+.coloum-div1 p {
+    color: #1455AC;
+    font-weight: bold;
+}

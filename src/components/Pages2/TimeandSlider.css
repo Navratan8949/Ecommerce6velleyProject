@@ -1,0 +1,73 @@
+.numbers-div {
+    display: flex;
+    /* justify-content: center; */
+    gap: 25px;
+
+
+}
+
+.offer-all-data {
+    align-items: center;
+    padding: 20px 40px;
+    background-color: white;
+    border-radius: 10px;
+    width: 90%;
+    height: 50vh;
+    display: flex;
+    margin-top: 40px;
+    gap: 20px;
+}
+
+.offer-div-1 {
+    height: auto;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.timer {
+    width: 50px;
+    height: 50px;
+    background-color: #E7EEF7;
+    color: #000;
+    font-size: 1.2rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.numbers-name {
+    display: flex;
+    margin-top: 10px;
+    gap: 35px;
+}
+
+.main-timer-div {
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    width: 90%;
+    height: auto;
+    margin-top: 10px;
+}
+
+.sale-heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sale-heading h2 {
+    color: blue;
+}
+
+.sliderItem-2 {
+    width: 90%;
+}
+
+.sliderItems {
+    width: 85vw;
+
+}

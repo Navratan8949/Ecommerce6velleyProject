@@ -1,0 +1,39 @@
+.MoreStore-main-container {
+    /* background-color: white; */
+    border-radius: 10px;
+    width: 90%;
+    height: auto;
+    margin: auto;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    background: #e0dfdf;
+}
+
+.more-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 40px;
+}
+
+
+.more-store-box {
+    /* width: 100vw; */
+    display: flex;
+
+}
+
+.more1 img {
+    width: 100px;
+    border-radius: 50%;
+    /* background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.5)); */
+}
+
+.more1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* border-radius: 50%;
+    background-color: black; */
+    width: 200px;
+}

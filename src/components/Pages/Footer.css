@@ -1,0 +1,93 @@
+.footer-top {
+    background-color: #185ab1e5;
+    height: 16vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 90px;
+    margin-top: 70px;
+
+}
+
+.valley-img-div img {
+    width: 180px;
+}
+
+.social-media-apps {
+    display: flex;
+    gap: 20px;
+}
+
+.customer-care {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.customer-care-numbers h4 {
+    font-size: 15px;
+    color: white;
+}
+
+.customer-care-numbers a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.footer-middle-bar {
+    background-color: #2C64B1;
+    height: 51vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-middle-bar-first-div p {
+    color: white;
+    font-size: 13px;
+    margin-top: 20px;
+}
+
+.footer-middle-bar-second-div a {
+    color: white;
+    font-size: 13px;
+}
+
+.footer-middle-bar-second-div h3 {
+    color: white;
+    font-size: 18px;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+
+.footer-middle-bar-second-div a {
+    text-decoration: none;
+}
+
+.footer-middle-bar-images {
+    margin-top: 20px;
+    gap: 15px;
+    display: flex;
+}
+
+.footer-middle-bar h4 {
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.footer-middle-bar-images img {
+    width: 120px;
+}
+
+.footer-last-div {
+    background-color: #185ab1e5;
+    height: 10vh;
+    color: white;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-last-div P {
+    font-size: 14px;
+}

@@ -1,0 +1,13 @@
+.slideImg{
+    border: 1px solid #F8F8F8;
+    width: 200px;
+    cursor: pointer;
+}
+
+p{
+    color: #797676;
+}
+
+.rupee{
+    color: blue;
+}

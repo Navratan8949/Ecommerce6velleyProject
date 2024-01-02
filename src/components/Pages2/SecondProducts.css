@@ -1,0 +1,19 @@
+.main-product-div {
+    display: flex;
+    width: 95%;
+    gap: 10px;
+    height: auto;
+    margin-top: 80px;
+}
+
+.first-img {
+    padding: 10px 0px 0px 70px;
+}
+
+.double-row-products { 
+    background-color: white;
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+}

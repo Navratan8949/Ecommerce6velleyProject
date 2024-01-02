@@ -1,0 +1,12 @@
+.relatedproducts-item{
+    display: flex;
+text-align: justify;
+font-size: 14px;
+/* width: 100vw; */
+/* gap: 10px; */
+}
+
+.relatedproducts-item {
+    /* width: 100px; */
+    /* width: 20px; */
+}

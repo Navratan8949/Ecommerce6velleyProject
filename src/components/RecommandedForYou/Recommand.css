@@ -1,0 +1,43 @@
+.recommand-main-div {
+    width: 100vw;
+    height: auto;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+.recommand-heading {
+    align-items: center;
+    /* display: flex; */
+}
+
+.three-buttons {
+    margin: 20px 0px;
+    /* text-align: center; */
+
+    /* gap: 30px; */
+}
+
+.button1 {
+    color: blue;
+    text-decoration: 2px underline;
+}
+
+.three-buttons button {
+    margin: 0px 30px;
+    border: transparent;
+    background-color: transparent;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.products-box {
+    background-color: white;
+    border-radius: 10px;
+    width: 90%;
+    height: auto;
+    display: flex;
+    margin: auto;
+    padding-bottom: 50px;
+
+}

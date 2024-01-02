@@ -1,0 +1,27 @@
+
+.sale-heading h2 {
+    color: blue;
+}
+
+.sliderItem-2 {
+    width: 90%;
+}
+
+.sliderItems {
+    width: 85vw;
+    padding-bottom: 30px;
+
+}
+
+.Heading {
+    display: flex;
+    margin: 20px 0px;
+    padding: 30px 0px 0px 20px !important;
+    justify-content: space-between;
+}
+
+.Heading span {
+    color: rgb(91, 91, 182);
+    margin-right: 10px;
+    font-weight: bold;
+}

@@ -1,0 +1,40 @@
+.main-navbar-div {
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+    box-shadow: 0px 0px 20px -6px;
+    position: fixed;
+    width: 100vw;
+    padding: 10px 0px;
+    top: 0%;
+    z-index: 1;
+    height: fit-content;
+    align-items: center;
+}
+
+.main-navbar-div ul {
+    display: flex;
+    gap: 70px;
+    list-style: none !important;
+    text-decoration: none !important;
+}
+
+.Cart{
+    position: relative;
+}
+
+.Cart .numbers{
+    position: absolute;
+    top: -35%;
+    right: -36%;
+    color: white;
+    /* left: -20%; */
+    bottom: 0%;
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: rgb(38, 0, 255);
+}

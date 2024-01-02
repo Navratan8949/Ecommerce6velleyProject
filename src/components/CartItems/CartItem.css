@@ -1,0 +1,30 @@
+.cartitems {
+    display: flex;
+    width: 100vw;
+    margin-top: 100px;
+    /* margin-bottom: 100px; */
+}
+
+.cartitems-formate {
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    gap: 70px;
+}
+
+
+.Total-item {
+    margin-right: 40px;
+    gap: 20px;
+
+    display: flex;
+    border: 1px solid black;
+    padding: 20px 10px;
+    width: fit-content;
+    height: fit-content;
+
+}
+
+.cartitems-down{
+    margin-left: 60px;
+}
